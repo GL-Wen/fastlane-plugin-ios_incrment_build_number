@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
   spec.email         = 'pjwwgl@126.com'
 
   spec.summary       = 'increment build version number based on version'
-  spec.homepage      = "https://github.com/GL_Wen/fastlane-plugin-ios_incrment_build_number"
+  spec.homepage      = "https://github.com/GL-Wen/fastlane-plugin-ios_incrment_build_number"
   spec.license       = "MIT"
 
   spec.files         = Dir["lib/**/*"] + %w(README.md LICENSE)
